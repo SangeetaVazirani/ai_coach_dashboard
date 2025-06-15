@@ -1,8 +1,8 @@
 streamlit
 pandas
-openpyxl
-numpy
 datetime
+sqlite3
 plyer
 transformers
 torch
+fpdf
