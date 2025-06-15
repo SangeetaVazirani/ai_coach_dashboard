@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+numpy
+datetime
+plyer
+transformers
+torch
