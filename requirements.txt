@@ -1,7 +1,5 @@
 streamlit
 pandas
-datetime
-sqlite3
 plyer
 transformers
 torch
